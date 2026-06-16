@@ -1,0 +1,6 @@
+{
+  "name": "TrendWear",
+  "description": "TrendWear - Premium Fashion Affiliate Shopping and Editorial Fashion Journal. Discover top trends and curated fashion items.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
